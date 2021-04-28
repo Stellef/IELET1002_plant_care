@@ -12,7 +12,7 @@
 // ##################################################################################
 //
 // Section 1. Call up the right driver file and any options for it
-//
+// 
 // ##################################################################################
 
 // Define STM32 to invoke optimised processor support (only for STM32)
